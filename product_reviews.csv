@@ -1,0 +1,17 @@
+review,sentiment
+This product is excellent and works perfectly,Positive
+I am very happy with the quality,Positive
+"Amazing product, totally worth the money",Positive
+The product is good and I would recommend it,Positive
+Excellent quality and fast delivery,Positive
+Very useful product and easy to use,Positive
+"I love this product, it is fantastic",Positive
+Good value for money,Positive
+The quality is poor and disappointing,Negative
+"I hate this product, completely useless",Negative
+Very bad quality and stopped working,Negative
+"Waste of money, do not buy this",Negative
+Terrible product and poor performance,Negative
+I am disappointed with this purchase,Negative
+The product broke after two days,Negative
+Worst product I have ever purchased,Negative
